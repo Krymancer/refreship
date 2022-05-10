@@ -1,5 +1,6 @@
 refreship
 refreship.ps1
+.env
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
